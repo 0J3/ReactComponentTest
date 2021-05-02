@@ -15,6 +15,9 @@ const App = () => {
 					<ReactComponents.UwUify>
 						So this is an example of the ReactComponents.UwUify Element
 					</ReactComponents.UwUify>
+					<br />
+					ReactComponents.YearsSince (time=0):
+					<ReactComponents.YearsSince time={0} />
 				</p>
 				{/* <a
           className="App-link"
