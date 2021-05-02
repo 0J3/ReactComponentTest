@@ -13,7 +13,7 @@ const App = () => {
 				<p>
 					Components:
 					<br />
-					ReactComponents.UwUify (useEmojis=true):
+					ReactComponents.UwUify (useEmojis=true):&nbsp;
 					<ReactComponents.UwUify useEmojis={true}>
 						So this is an example of the ReactComponents.UwUify Element
 					</ReactComponents.UwUify>
