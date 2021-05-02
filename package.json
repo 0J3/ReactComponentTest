@@ -44,5 +44,6 @@
 			"last 5 chrome versions",
 			"last 5 firefox versions"
 		]
-	}
+	},
+	"homepage": "https://0j3.github.io/ReactComponentTest/build/"
 }
