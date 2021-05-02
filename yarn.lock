@@ -1473,10 +1473,10 @@
     "@nodelib/fs.scandir" "2.1.4"
     fastq "^1.6.0"
 
-"@norathefurry/reactcomponents@^0.1.7":
-  version "0.1.7"
-  resolved "https://registry.yarnpkg.com/@norathefurry/reactcomponents/-/reactcomponents-0.1.7.tgz#8732f2eccaa42a8dbcad480acf7b9e0d1b371b0c"
-  integrity sha512-Cl3sjzskcfy5keFNLAp/npnj5MYD4xelTSYKgOsSBdpBxu5MCkbViU4qvQWpY0kash1Ddyy+aoHKQlr09lIoAw==
+"@norathefurry/reactcomponents@^0.1.12":
+  version "0.1.12"
+  resolved "https://registry.yarnpkg.com/@norathefurry/reactcomponents/-/reactcomponents-0.1.12.tgz#4a919f4d4622c2a1d0785b863dfcb97e31485311"
+  integrity sha512-kOcrShiY45O9XIaD3NpCjfvP8OzZxt1qbDqqpeVSo3cxlAeIdZHuF9vMRYoLG9g/1QUgwF83ygoQ68ne6WKrDA==
   dependencies:
     react "^17.0.2"
 

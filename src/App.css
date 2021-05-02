@@ -1,8 +1,10 @@
 * {
 	overflow: hidden; /* discouraged but idc its a test*/
 }
+
 .App {
 	text-align: center;
+	overflow-y: auto !important;
 }
 
 .App-logo {

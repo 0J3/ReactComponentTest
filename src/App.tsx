@@ -1,6 +1,8 @@
 import React from 'react';
 import './App.css';
 import ReactComponents from '@norathefurry/reactcomponents';
+// import { YearsSince } from '@norathefurry/reactcomponents';
+import YearsSince from '@norathefurry/reactcomponents/js/YearsSince';
 
 const App = () => {
 	console.log(ReactComponents.UwUify.uwuifyWithFaces('hello world'));
@@ -11,13 +13,13 @@ const App = () => {
 				<p>
 					Components:
 					<br />
-					ReactComponents.UwUify:
-					<ReactComponents.UwUify>
+					ReactComponents.UwUify (useEmojis=true):
+					<ReactComponents.UwUify useEmojis={true}>
 						So this is an example of the ReactComponents.UwUify Element
 					</ReactComponents.UwUify>
 					<br />
-					ReactComponents.YearsSince (time=0):
-					<ReactComponents.YearsSince time={0} />
+					ReactComponents.YearsSince (time=0):&nbsp;
+					<YearsSince time={0}>a</YearsSince>
 				</p>
 				{/* <a
           className="App-link"
